@@ -1,0 +1,18 @@
+{
+  "routes": {
+    "/Learning-Platform": {},
+    "/Learning-Platform/admin": {},
+    "/Learning-Platform/challenges": {},
+    "/Learning-Platform/courses": {},
+    "/Learning-Platform/courses/1": {},
+    "/Learning-Platform/courses/2": {},
+    "/Learning-Platform/courses/3": {},
+    "/Learning-Platform/dashboard": {},
+    "/Learning-Platform/home": {},
+    "/Learning-Platform/leaderboard": {},
+    "/Learning-Platform/profile": {},
+    "/Learning-Platform/rewards": {},
+    "/Learning-Platform/settings": {},
+    "/Learning-Platform/user-profile": {}
+  }
+}
